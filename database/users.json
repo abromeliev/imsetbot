@@ -1,0 +1,136 @@
+[
+	{
+		"id": 437373912,
+		"uid": 1,
+		"balance": 0,
+		"bank": 0,
+		"btc": 100000,
+		"farm_btc": 0,
+		"farms": 23031,
+		"farmslimit": 200,
+		"energy": 10,
+		"opit": 0,
+		"biz": 0,
+		"zhelezo": 0,
+		"zoloto": 0,
+		"almaz": 0,
+		"bizlvl": 2,
+		"nicklimit": 16,
+		"rating": 0,
+		"regDate": "6.7.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false,
+			"poxod": false,
+			"poxod2": false,
+			"kopat": false,
+			"hack": true
+		},
+		"tag": "Царь",
+		"work": 0,
+		"business": 11,
+		"notifications": true,
+		"exp": 2,
+		"level": 1,
+		"referal": null,
+		"promo": false,
+		"transport": {
+			"car": 0,
+			"yacht": 0,
+			"airplane": 0
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 0,
+			"farm": 6,
+			"pet": 1
+		},
+		"settings": {
+			"firstmsg": false,
+			"adm": 5,
+			"trade": true,
+			"old": false,
+			"limit": 1000000
+		},
+		"pet": {
+			"lvl": 1,
+			"poterl": false
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		}
+	},
+	{
+		"id": 392024205,
+		"uid": 2,
+		"balance": 937974895349838400000,
+		"bank": 1.098950001830035e+21,
+		"btc": 100000,
+		"farm_btc": 0,
+		"farms": 1000,
+		"farmslimit": 200,
+		"energy": 10,
+		"opit": 0,
+		"biz": 0,
+		"zhelezo": 0,
+		"zoloto": 0,
+		"almaz": 0,
+		"bizlvl": 36,
+		"nicklimit": 16,
+		"rating": 100000000,
+		"regDate": "6.7.2019",
+		"mention": true,
+		"ban": false,
+		"timers": {
+			"hasWorked": false,
+			"bonus": false,
+			"poxod": true,
+			"poxod2": false,
+			"kopat": false,
+			"hack": true
+		},
+		"tag": "Добрый Админ",
+		"work": 1,
+		"business": 11,
+		"notifications": true,
+		"exp": 4,
+		"level": 1,
+		"referal": null,
+		"promo": false,
+		"transport": {
+			"car": 17,
+			"yacht": 7,
+			"airplane": 8
+		},
+		"realty": {
+			"home": 0,
+			"apartment": 0
+		},
+		"misc": {
+			"phone": 6,
+			"farm": 6,
+			"pet": 8
+		},
+		"settings": {
+			"firstmsg": false,
+			"adm": 5,
+			"trade": true,
+			"old": false,
+			"limit": 1000000
+		},
+		"pet": {
+			"lvl": 1,
+			"poterl": false
+		},
+		"marriage": {
+			"partner": 0,
+			"requests": []
+		}
+	}
+]
